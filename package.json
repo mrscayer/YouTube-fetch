@@ -1,0 +1,8 @@
+{
+  "name": "youtube-fetch",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "react-native": ">=0.60.0"
+  }
+}
